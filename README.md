@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<ing src="https://github.com/JuliaRodi/JuliaRodi/blob/main/copi.jpg" alt="The Unlimited" width="600">
+<ing src="https://github.com/JuliaRodi/JuliaRodi/blob/main/copi.jpg" alt="The Unlimited">
