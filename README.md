@@ -4,5 +4,7 @@
 
 # my tools
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=flat-square&logo=python)
+# GitHub Stats Card
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaRodi&show_icons=true&theme=vue-dark)
 
 
